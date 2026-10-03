@@ -1,0 +1,8 @@
+# CMake and IDE build output
+/build/
+/cmake-build-*/
+/.idea/
+
+# Keil build output and local UI state
+/MDK-ARM/261002Class/
+*.uvguix.*
