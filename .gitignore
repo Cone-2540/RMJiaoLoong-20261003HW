@@ -2,6 +2,7 @@
 /build/
 /cmake-build-*/
 /.idea/
+/references/
 
 # Keil build output and local UI state
 /MDK-ARM/261002Class/
